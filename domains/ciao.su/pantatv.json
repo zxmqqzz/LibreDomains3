@@ -1,0 +1,17 @@
+{
+  "description": "个人TV站点",
+  "owner": {
+    "name": "panta",
+    "github": "panta1209",
+    "email": "52915250@qq.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "@",
+      "content": "katelyatv-nw6.pages.dev",
+      "ttl": 3600,
+      "proxied": true
+    }
+  ]
+}
