@@ -7,8 +7,8 @@
   },
   "records": [
     {
-      "type": "A",
-      "name": "@",
+      "type": "CNAME",
+      "name": "www",
       "content": "https://tv919.pages.dev/",
       "ttl": 3600,
       "proxied": false
